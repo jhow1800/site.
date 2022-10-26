@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    background-color: rgba(82, 87, 89, 0.185);
+    font-family: helvetica,Arial, sans-serif;
+}
+h1{
+    font-size: 40px; color: black;
+}
+
+input{
+    margin-top: 30px;
+    width: 300px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+.container { 
+    text-align: center;
+}
+header{
+    background-image: url(https://img.freepik.com/free-photo/concrete-background-cement-texture-with-blank-space_53876-108434.jpg?w=2000);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
